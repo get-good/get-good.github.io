@@ -6,6 +6,29 @@ We are currently working on a project to give ICS students the opportunity to me
 
 -A reactive calendar where students can create/edit/remove study sessions with other users
 
+### The App
+If you're tired of bad grades, you're not the only one. Studybuddyfinder lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
+
 ### Installation
 This app requires meteor to be installed on your computer. To do so, please see their <a href="https://www.meteor.com/">page<a>.
 To install studybuddyfinder, download the .zip file and extract all the files. Then, change your directory to the app directory contained in the extracted contents. From there, type meteor run and you're all set!
+
+### Usage
+Here's how to use the app:
+
+### Development
+If you'd like to help with development, here's what you'll need to do:
+
+### Contact Us
+Anthony Kulololia
+- Email
+- Github
+Daniel Koo
+- Email
+- Github
+Dylan Pavao
+- Email
+- Github
+Justin Chock
+- jchock25@hawaii.edu
+- https://github.com/jchock
