@@ -1,6 +1,6 @@
 {
   "name": "Study Buddy Finder",
-  "tagline": "",
+  "tagline": "Take the A out of FAIL and make that your grade!",
   "body": "We are currently working on a project to give ICS students the opportunity to meet and work with other individuals taking the same classes. Our application will have the following features:\r\n\r\n-Home page where users may setup/edit their profile, create an about page and view their current rating\r\n\r\n-Profile page where students can signup for courses they're willing to provide help with and courses they're willing to receive help from.\r\n\r\n-A reactive calendar where students can create/edit/remove study sessions with other users\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
