@@ -24,6 +24,6 @@ If you'd like to help with development, here's what you'll need to do:
 ## Contact Us
 ### Developers
 - <a href="https://github.com/akuloloia">Anthony Kulololia</a>
-- Daniel Koo
+- <a href="https://github.com/dankoo">Daniel Koo</a>
 - <a href="https://github.com/dylanpavao">Dylan Pavao</a>
 - <a href="https://github.com/jchock">Justin Chock</a>
