@@ -18,8 +18,8 @@ Here's how to use the app:
 
 ## Development
 If you'd like to help with development, here's what you'll need to do:
-Download and install meteor on your computer if you haven't already done so. See their <a href="https://www.meteor.com/">page</a> for details.
-You'll also need <a href="https://nodejs.org/en/">node.js</a> installed. With meteor and node.js installed, you'll be all set to develop with an IDE of your choice.
+<p>Download and install <a href="https://www.meteor.com/">meteor</a> on your computer if you haven't already done so.</p>
+<p>You'll also need <a href="https://nodejs.org/en/">node.js</a> installed. With meteor and node.js installed, you'll be all set to develop with an IDE of your choice.</p>
 
 ## Contact Us
 ### Developers
