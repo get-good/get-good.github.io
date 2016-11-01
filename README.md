@@ -23,5 +23,5 @@ If you'd like to help with development, here's what you'll need to do:
 ### Developers
 - Anthony Kulololia
 - Daniel Koo
-- Dylan Pavao
+- <a href="https://github.com/dylanpavao">Dylan Pavao</a>
 - <a href="https://github.com/jchock">Justin Chock</a>
