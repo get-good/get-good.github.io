@@ -8,6 +8,7 @@ We are currently working on a project to give ICS students the opportunity to me
 
 ## The App
 If you're tired of bad grades, you're not the only one. Studybuddyfinder lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
+<img src="images/landing-page.png">
 
 ## Installation
 This app requires meteor to be installed on your computer. To do so, please see their <a href="https://www.meteor.com/">page</a>.
@@ -15,6 +16,28 @@ To install studybuddyfinder, download the .zip file and extract all the files. T
 
 ## Usage
 Here's how to use the app:
+
+Login using your UH Email on the login page.
+<img src="images/login-page.png">
+
+Once logged in, you will be directed to your home page.
+<img src="images/home.png">
+
+If you want to create a session, head to the create a session page.
+<img src="images/create-sessions.png">
+
+View all your past and future sessions.
+<img src="images/sessions.png">
+
+Use the calendar to view everyone's sessions.
+<img src="images/calendar.png">
+
+View the rankings of all users using the app.
+<img src="images/rankings.png">
+
+View your own profile.
+<img src="images/profile.png">
+
 
 ## Development
 If you'd like to help with development, here's what you'll need to do:
