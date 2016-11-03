@@ -24,9 +24,6 @@ If you want to create a session, head to the calendar page and add an event.
 View all your past and future sessions as a grasshopper or sensei.
 <img src="images/sessions-page.png">
 
-Use the calendar to view everyone's sessions.
-<img src="images/calendar.png">
-
 View the rankings of all users using the app.
 <img src="images/rankings-page.png">
 
