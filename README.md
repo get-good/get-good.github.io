@@ -3,7 +3,7 @@
 - <a href="https://github.com/get-good/gg/projects/2">M2</a>
 
 ## The App
-A link to our app can be found <a href="http://gg.meteorapp.com/">here</a>
+A link to our app can be found <a href="http://gg.meteorapp.com/">here</a>.
 If you're tired of bad grades, you're not the only one. Get Good lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
 <img src="images/public-landing-page.png">
 
