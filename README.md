@@ -1,6 +1,6 @@
 ## Milestones
-<a href="https://github.com/get-good/gg/projects/1">M1</a>
-<a href="https://github.com/get-good/gg/projects/2">M2</a>
+- <a href="https://github.com/get-good/gg/projects/1">M1</a>
+- <a href="https://github.com/get-good/gg/projects/2">M2</a>
 
 ## The App
 If you're tired of bad grades, you're not the only one. Get Good lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
