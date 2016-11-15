@@ -13,7 +13,7 @@ To install get good, download the .zip file and extract all the files. Then, cha
 ## Usage
 Here's how to use the app:
 
-Loging in using your UH Email will ask you to agree to the terms of use.
+Logging in using your UH Email will ask you to agree to the terms of use.
 <img src="images/terms-of-use-page.png">
 
 Once agreed, you will be directed to your home page.
