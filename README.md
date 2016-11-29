@@ -37,8 +37,12 @@ This is what our admin page looks like.
 
 ## Development
 If you'd like to help with development, here's what you'll need to do:
+<p>Download the .zip file, extract the contents, and copy them to a directory to develop in.</p>
 <p>Download and install <a href="https://www.meteor.com/">meteor</a> on your computer if you haven't already done so.</p>
-<p>You'll also need <a href="https://nodejs.org/en/">node.js</a> installed. With meteor and node.js installed, you'll be all set to develop with an IDE of your choice.</p>
+<p>You'll also need <a href="https://nodejs.org/en/">node.js</a> installed.</p>
+<p>Navigate into the /app subdirectory within the development directory and type "meteor npm install" in the command line.</p>
+<p>With meteor and node.js installed, you'll be all set to develop with an IDE of your choice.</p>
+<p>You can run the app locally by typing "meteor --settings ../config/settings.development.json" in the command line</p>
 
 ## Contact Us
 ### Developers
