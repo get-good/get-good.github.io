@@ -1,20 +1,20 @@
 ## Milestones
-- <a href="https://github.com/get-good/gg/projects/1">M1</a>
-- <a href="https://github.com/get-good/gg/projects/2">M2</a>
-- <a href="https://github.com/get-good/gg/projects/3">M3</a>
+- <a href="https://github.com/get-good/gg/projects/1">Milestone 1</a>
+- <a href="https://github.com/get-good/gg/projects/2">Milestone 2</a>
+- <a href="https://github.com/get-good/gg/projects/3">Milestone 3</a>
 
 ## The App
-A link to our app can be found <a href="http://gg.meteorapp.com/">here</a>.
 If you're tired of bad grades, you're not the only one. Get Good lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
-<img src="images/public-landing-page.png">
+<img src="images/no-logged-home-page.png">
 
 ## Usage
-Here's how to use the app:
+
+When first using our app. We prompt you with alerts to make sure you're not lost. If you want these alerts to stop simply check the box and press OK.
 
 Logging in using your UH Email will ask you to agree to the terms of use.
 <img src="images/terms-of-use-page.png">
 
-Once agreed, you will be directed to your home page.
+Once agreed, you will be directed to your home page. When first using our app, We prompt you with alerts to make sure you're not lost. If you want these alerts to stop, simply check the box and press OK.
 <img src="images/home-page.png">
 
 View your own profile.
@@ -24,16 +24,13 @@ If you want to create a session, head to the calendar page and add an event.
 <img src="images/calendar-page.png">
 
 If you want to add an event, you can click a day and you will be redirected to this page.
-<img src="images/add-session-page.png">
-
-View all your past and future sessions as a grasshopper or sensei.
-<img src="images/sessions-page.png">
+<img src="images/add-event-page.png">
 
 View the rankings of all users using the app.
 <img src="images/rankings-page.png">
 
-This is what our admin page looks like.
-<img src="images/admin-home-page.png">
+If you need more help, head to our help page.
+<img src="images/help-page.png"
 
 ## Development
 If you'd like to help with development, here's what you'll need to do:
