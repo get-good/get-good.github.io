@@ -1,15 +1,12 @@
 ## Milestones
 - <a href="https://github.com/get-good/gg/projects/1">M1</a>
 - <a href="https://github.com/get-good/gg/projects/2">M2</a>
+- <a href="https://github.com/get-good/gg/projects/3">M3</a>
 
 ## The App
 A link to our app can be found <a href="http://gg.meteorapp.com/">here</a>.
 If you're tired of bad grades, you're not the only one. Get Good lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
 <img src="images/public-landing-page.png">
-
-## Installation
-This app requires meteor to be installed on your computer. To do so, please see their <a href="https://www.meteor.com/">page</a>.
-To install get good, download the .zip file and extract all the files. Then, change your directory to the app directory contained in the extracted contents. From there, type meteor run and you're all set!
 
 ## Usage
 Here's how to use the app:
