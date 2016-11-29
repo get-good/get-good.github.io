@@ -30,7 +30,7 @@ View the rankings of all users using the app.
 <img src="images/rankings-page.png">
 
 If you need more help, head to our help page.
-<img src="images/help-page.png"
+<img src="images/help-page.png">
 
 ## Development
 If you'd like to help with development, here's what you'll need to do:
