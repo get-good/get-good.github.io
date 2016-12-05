@@ -1,13 +1,8 @@
-## Milestones
-- <a href="https://github.com/get-good/gg/projects/1">Milestone 1</a>
-- <a href="https://github.com/get-good/gg/projects/2">Milestone 2</a>
-- <a href="https://github.com/get-good/gg/projects/3">Milestone 3</a>
-
-## The App
+## Get Good!
 If you're tired of bad grades, you're not the only one. Get Good lets you find others who are struggling just as much as you are. Together, you can find people who are more knowledgeable on the topic and have them help you!
 <img src="images/no-logged-home-page.png">
 
-## Usage
+## User Guide
 
 When first using our app. We prompt you with alerts to make sure you're not lost. If you want these alerts to stop simply check the box and press OK.
 
@@ -41,9 +36,14 @@ If you'd like to help with development, here's what you'll need to do:
 <p>With meteor and node.js installed, you'll be all set to develop with an IDE of your choice.</p>
 <p>You can run the app locally by typing "meteor --settings ../config/settings.development.json" in the command line</p>
 
+## Milestones
+- <a href="https://github.com/get-good/gg/projects/1">Milestone 1</a>
+- <a href="https://github.com/get-good/gg/projects/2">Milestone 2</a>
+- <a href="https://github.com/get-good/gg/projects/3">Milestone 3</a>
+
 ## Contact Us
 ### Developers
-- <a href="https://github.com/akuloloia">Anthony Kulololia</a>
-- <a href="https://github.com/dankoo">Daniel Koo</a>
-- <a href="https://github.com/dylanpavao">Dylan Pavao</a>
-- <a href="https://github.com/jchock">Justin Chock</a>
+- <a href="https://akuloloia.github.io/">Anthony Kulololia</a>
+- <a href="https://dankoo.github.io/">Daniel Koo</a>
+- <a href="https://dylanpavao.github.io/">Dylan Pavao</a>
+- <a href="https://jchock.github.io/">Justin Chock</a>
