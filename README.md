@@ -19,7 +19,13 @@ If you want to create a session, head to the calendar page and add an event.
 <img src="images/calendar-page.png">
 
 If you want to add an event, you can click a day and you will be redirected to this page.
-<img src="images/add-event-page.png">
+<img src="images/calendarAlert.png">
+
+If you have an event on the day, a notification will be in the alert tab.
+<img src="images/calenderAlert.png">
+
+If you have multiple events in the week, the list tab will have the events of the week chronologically sorted.
+<img src="images/calender-list.png">
 
 View the rankings of all users using the app.
 <img src="images/rankings-page.png">
